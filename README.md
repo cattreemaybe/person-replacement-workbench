@@ -86,3 +86,7 @@ macOS 可以双击 `start.command`，也可以运行：
 本项目按 [Apache License 2.0](LICENSE) 发布，版权所有者为 `cattreemaybe`。第三方组件见[第三方声明](THIRD_PARTY_NOTICES.md)。
 
 欢迎阅读[贡献指南](CONTRIBUTING.md)后提交 Issue 或 Pull Request。安全问题请按照[安全政策](SECURITY.md)私下报告；社区交流受[行为准则](CODE_OF_CONDUCT.md)约束。
+
+## 社区
+
+感谢 [LINUX DO](https://linux.do/) 提供友好的技术交流与开源分享社区。
